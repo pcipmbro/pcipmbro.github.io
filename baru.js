@@ -1,4 +1,4 @@
-var min_w = 300;
+var min_w = auto;
 var vid_w_orig;
 var vid_h_orig;
 
